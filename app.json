@@ -125,7 +125,7 @@
       "value": "KY-MD",
       "required": false
     }
-  },S
+  },
   "addons": [{ "plan": "heroku-postgresql:basic" }],
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
