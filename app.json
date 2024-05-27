@@ -1,7 +1,7 @@
 {
   "name": "OFFICIAL_kY",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/OFFICIAL-KY-MD/KY/blob/main/lib/assets/https://telegra.ph/file/e548c60375272c01182ff.jpg?raw=true",
+  "logo": "https://github.com/OFFICIAL-KY-MD/KY-MD/blob/main/lib/assets/https://telegra.ph/file/e548c60375272c01182ff.jpg?raw=true",
   "keywords": ["OFFICIAL-MD", "OFFICIAL", "OFFICIAL-KY","OFFICIAL MD","official","officialbot-md"],
   "success_url": "/",
   "stack": "container",
